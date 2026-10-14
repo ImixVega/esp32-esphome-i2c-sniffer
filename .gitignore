@@ -1,0 +1,25 @@
+# ESPHome / credentials / backups
+secrets.yaml
+**/secrets.yaml
+*.local.yaml
+*.local.yml
+.esphome/
+.pioenvs/
+.piolibdeps/
+*.bin
+*.elf
+*.map
+*.uf2
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.idea/
+.vscode/
+*.log
+*.pcap
+*.pcapng
+*.vcd
+*.csv
+.DS_Store
+Thumbs.db
